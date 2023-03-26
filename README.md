@@ -1,6 +1,6 @@
 # Bachelor's Degree in Computer Engineering Materials
 
-This repository contains all the materials you need to complete a Bachelor's degree in Computer Engineering, including notes, lab materials, paid `videos` and other resources.
+This repository contains all the materials you need to complete a Bachelor's degree in Computer Engineering, including notes, lab materials, free udemy course `videos` and other resources.
 
 ## Accessing the Materials
 
