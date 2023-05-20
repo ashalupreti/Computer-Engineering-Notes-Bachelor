@@ -9,8 +9,7 @@ All the materials for this course are stored in this OneDrive folder: [Download]
 Please note that we may `update` or add `new materials` to this folder from time to time. We recommend checking the folder regularly for any updates or new materials.
 
 
-`In this Drive:`
-https://user-images.githubusercontent.com/90265701/227874781-e0c6990c-bf8d-4a5f-b4fe-3f6a31274092.mp4
+`In this Drive` https://user-images.githubusercontent.com/90265701/227874781-e0c6990c-bf8d-4a5f-b4fe-3f6a31274092.mp4
 
 
 ## Contributing
