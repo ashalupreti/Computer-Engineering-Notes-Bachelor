@@ -10,7 +10,7 @@ Please note that we may `update` or add `new materials` to this folder from time
 
 `Course Outline:`
 
-https://user-images.githubusercontent.com/90265701/227874781-e0c6990c-bf8d-4a5f-b4fe-3f6a31274092.mp4
+https://user-images.githubusercontent.com/90265701/227874781-e0c6990c-Outline.mp4
 
 
 ## Contributing
