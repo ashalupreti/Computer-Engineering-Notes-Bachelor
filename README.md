@@ -3,9 +3,10 @@
 This repository contains all the essential resources you need to complete a Bachelor's degree in Computer Engineering, including:
 
 - Notes  
-- Lab materials  
-- Free Udemy course `videos`  
-- Other helpful resources  
+- Lab materials
+- License preparation materials
+- Other helpful resources
+- Free Udemy course `videos` 
 
 ## Important Notice 🚨
 
