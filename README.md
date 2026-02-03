@@ -12,7 +12,7 @@ This repository contains all the essential resources you need to complete a Bach
 Previously, all the materials were shared through **OneDrive**, but due to storage issues the links are no longer accessible. Many students faced problems finding and downloading the files.  
 I (the owner) am currently developing a **proper website** to make these materials easy to access and download.
 
-👉 The development will take around **1 month**. After it’s ready, you can access everything here:  [ashalupreti.com.np/notes]([https://www.ashalupreti.com.np/notes](https://khecedunp-my.sharepoint.com/:f:/g/personal/760307_khec_edu_np/IgD0Z7-CHmuZRpkZAIvwQ37ZATVR0kwfkqRTRkq19DmD5ZU?e=dYR3nU)
+👉 You can now temporarily access everything here:  [ashalupreti.com.np/notes](https://khecedunp-my.sharepoint.com/:f:/g/personal/760307_khec_edu_np/IgD0Z7-CHmuZRpkZAIvwQ37ZATVR0kwfkqRTRkq19DmD5ZU?e=dYR3nU)
 
 ![demo](https://github.com/user-attachments/assets/a338b33a-cd02-44ca-a9bd-3c95238bf0e8)
 
